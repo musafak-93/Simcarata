@@ -20,7 +20,8 @@ Simcarata merupakan sistem informasi cabang ranting tegalrejo untuk mengelola da
 - Dasboard Admin
 - Edit Akun
 - Ubah Password
-- Role User
+- Middleware/Role User
+- Relations Database
 - CRUD data di halaman admin
 
 
