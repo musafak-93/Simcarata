@@ -70,12 +70,15 @@ Install my-project with clone using link HTTP Github
 - Dasboard Admin
   ![image](https://github.com/musafak-93/Simcarata/assets/62982123/239897ff-83c0-49f5-9638-549495abf92f)
 - Akun
-  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/d74b4fc8-66df-4f82-8daf-ad24e1e165fb)
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/dca8d1ce-55f6-4302-82af-319ab0089ed3)
 - Post
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/251a2dd6-0794-4870-965b-2c421d0a7a4a)
 - Pimpinan
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/f42cdea2-3271-4719-99ca-9ab3c825e37b)
 - Anggota
   ![image](https://github.com/musafak-93/Simcarata/assets/62982123/8433ca39-6f18-4ed4-b521-ddd046ba807c)
 - AUM
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/bd1b7b1b-1e54-4f08-9bf2-33d7b83be6b3)
 - Aset
   ![image](https://github.com/musafak-93/Simcarata/assets/62982123/58bf985a-c417-48a7-89ed-8a3a4b12425a)
 - Akun
