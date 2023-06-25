@@ -7,56 +7,83 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+# SIMCARATA
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Simcarata merupakan sistem informasi cabang ranting tegalrejo untuk mengelola data kegiatan, aset, organisasi dan anggota. Simcarata dikembangkan menggunakan framework laravel 8 dengan template admin CMS Voyager
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Features
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- Login
+- Logout
+- Dasboard Admin
+- Edit Akun
+- Ubah Password
+- Role User
+- CRUD data di halaman admin
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## System Requirements
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- PHP => 7.4.15
+- Laravel => 8
+- MySQL => 5.7.33
+- Laragon
+- Visual studio code
+## Installation
 
-### Premium Partners
+Install my-project with clone using link HTTP Github
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
+- Clone the repository
+  ```bash
+  git clone "link"
+  ```
+- Install dependencies using composer install
+  ```bash
+  composer install
+  ```
+- Copy the .env.example file to .env
+  ```bash
+  cp .env.example .env
+  ```
+- Generate the APP_KEY.
+  ```bash
+  php artisan key:generate
+  ```
+- Create database in PhpMyAdmin and update name database in file .env
+- Run php artisan migrate to migrate the database
+  ```bash
+  php artisan migrate
+  ```
+- Run php artisan serve
+  ```bash
+  php artisan serve
+  ```
 
-## Contributing
+    
+## Screenshots
+- Beranda
+    ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- Login
+- Dasboard Admin
+- Akun
+- Post
+- Pimpinan
+- Anggota
+- AUM
+- Aset
+- Akun
+- Data Master
+- Tool
+- Settings
+## Used By
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+This project is used by the following companies:
 
-## Code of Conduct
+- Pimpinan Cabang Muhammadiyah Tegalrejo
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## Feedback
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+If you have any feedback, please reach out to us at mus.safak93@gmail.com
