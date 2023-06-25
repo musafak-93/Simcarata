@@ -37,7 +37,7 @@ Install my-project with clone using link HTTP Github
 
 - Clone the repository
   ```bash
-  git clone "link"
+  git clone https://github.com/musafak-93/Simcarata.git
   ```
 - Install dependencies using composer install
   ```bash
@@ -64,7 +64,7 @@ Install my-project with clone using link HTTP Github
     
 ## Screenshots
 - Beranda
-    ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/59535c53-57c8-492c-9693-df8d29bd2eac)
 - Login
 - Dasboard Admin
 - Akun
