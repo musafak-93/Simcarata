@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+![image](https://github.com/musafak-93/Simcarata/assets/62982123/bf4a1ed0-1b11-455f-abe4-69f695f2e4d3)<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -68,17 +68,14 @@ Install my-project with clone using link HTTP Github
 - Login
   ![image](https://github.com/musafak-93/Simcarata/assets/62982123/c1e29e9a-9c68-49af-bd38-d6fb789414fa)
 - Dasboard Admin
-  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/e5042cad-db5e-4c0b-82f7-b690a41abeb5)
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/239897ff-83c0-49f5-9638-549495abf92f)
 - Akun
-  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/d9a56026-51d5-4085-ba0e-d2a9b2373556)
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/d74b4fc8-66df-4f82-8daf-ad24e1e165fb)
 - Post
-  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/7a9d0154-54f3-4d9c-b0db-ddac3250a55a)
 - Pimpinan
-  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/2c75a1da-ab73-4ed7-a69e-da46729b5ccd)
 - Anggota
   ![image](https://github.com/musafak-93/Simcarata/assets/62982123/8433ca39-6f18-4ed4-b521-ddd046ba807c)
 - AUM
-  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/54f79a2d-bdef-4d47-9641-09c29777a9c3)
 - Aset
   ![image](https://github.com/musafak-93/Simcarata/assets/62982123/58bf985a-c417-48a7-89ed-8a3a4b12425a)
 - Akun
