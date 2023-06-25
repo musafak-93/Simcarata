@@ -66,17 +66,30 @@ Install my-project with clone using link HTTP Github
 - Beranda
   ![image](https://github.com/musafak-93/Simcarata/assets/62982123/59535c53-57c8-492c-9693-df8d29bd2eac)
 - Login
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/c1e29e9a-9c68-49af-bd38-d6fb789414fa)
 - Dasboard Admin
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/e5042cad-db5e-4c0b-82f7-b690a41abeb5)
 - Akun
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/d9a56026-51d5-4085-ba0e-d2a9b2373556)
 - Post
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/7a9d0154-54f3-4d9c-b0db-ddac3250a55a)
 - Pimpinan
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/2c75a1da-ab73-4ed7-a69e-da46729b5ccd)
 - Anggota
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/8433ca39-6f18-4ed4-b521-ddd046ba807c)
 - AUM
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/54f79a2d-bdef-4d47-9641-09c29777a9c3)
 - Aset
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/58bf985a-c417-48a7-89ed-8a3a4b12425a)
 - Akun
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/3a3d2339-ccdf-4cb5-bcf4-91bd14bca92b)
 - Data Master
-- Tool
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/e2df41c3-6656-45d9-b833-a44dc06dd1e3)
+- Tools
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/2d95efd9-f7e3-47ee-bc76-140759a5ed34)
 - Settings
+  ![image](https://github.com/musafak-93/Simcarata/assets/62982123/f0437360-66ed-4419-a630-a24a50af1d2a)
+
 ## Used By
 
 This project is used by the following companies:
